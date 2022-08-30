@@ -8,8 +8,7 @@ import javax.persistence.*;
 
 
 
-//@NamedQuery(name = "listaLivroId",query = "SELECT l FROM syo_livro l where idlivro = :id")
-//@NamedQuery(name = "listaPorAutor",query = "SELECT l FROM syo_livro l where nm_autor= :autor")
+
 
 public class Livro {
 
